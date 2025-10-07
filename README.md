@@ -38,15 +38,14 @@ Socket-programming/<br/>
    ```bash
    javac Server.java
    Run the server:
-
-java Server
+   java Server
 ### 2. Client
 Navigate to the client.java file.
 Compile the client:
+ ```bash
 javac Client.java
 Run the client:
 java Client
-
 Technologies Used
 Java (JDK 8+)
 Java Sockets (TCP & UDP)
