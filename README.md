@@ -40,13 +40,14 @@ Socket-programming/<br/>
    Run the server:
    java Server
 ### 2. Client
-Navigate to the client.java file.
-Compile the client:
- ```bash
-javac Client.java
-Run the client:
-java Client
-Technologies Used
+1.Navigate to the client.java file.
+2.Compile the client:
+    ```bash
+    javac Client.java
+    Run the client:
+    java Client
+
+### 3. Technologies Used
 Java (JDK 8+)
 Java Sockets (TCP & UDP)
 Object Serialization (for message passing)
