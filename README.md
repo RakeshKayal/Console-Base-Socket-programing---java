@@ -30,10 +30,10 @@ Socket-programming/<br/>
 
 ---
 
-###  Technologies Used
-Java (JDK 8+)
-Java Sockets (TCP & UDP)
-Object Serialization (for message passing)
+###  Technologies Used<br/>
+Java (JDK 8+)<br/>
+Java Sockets (TCP & UDP)<br/>
+Object Serialization (for message passing)<br/>
 
 ## How to Run
 
