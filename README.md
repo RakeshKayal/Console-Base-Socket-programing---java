@@ -22,8 +22,8 @@ Socket-programming/<br/>
 │ ├── GroupMsgForClientServer/<br/>
 │ ├── TCP/<br/>
 │ └── UDP/<br/>
-   &nbsp|___broadCastFromServerToAll/<br/>
-   &nbsp|__ClientToClientCommunication/<br/>
+  |___broadCastFromServerToAll/<br/>
+   |__CientToClientCommunication/<br/>
 │
 ├── .gitignore # Ignore IDE and build files<br/>
 └── README.md # Project documentation<br/>
